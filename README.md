@@ -91,4 +91,4 @@ python encryption_tool.py --decrypt --algorithm caesar --input path/to/encrypted
 ```
 
 # Author
-Created from Kypros Andreou
+Created by Kypros Andreou
