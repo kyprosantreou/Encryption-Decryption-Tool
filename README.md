@@ -90,3 +90,5 @@ python encryption_tool.py --decrypt --algorithm otp --input path/to/encryptedfil
 python encryption_tool.py --decrypt --algorithm caesar --input path/to/encryptedfile --output path/to/decryptedfile
 ```
 
+# Author
+Created from Kypros Andreou
