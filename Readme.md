@@ -50,7 +50,7 @@ Make sure to replace `path/to/inputfile`, `path/to/outputfile`, and key paths wi
 
 #### AES Encryption
 ```bash
-python main.py --encrypt --algorithm aes --input path/to/inputfile --output path/to/outputfile --key path/to/aes_key.key
+python encryption_tool.py --encrypt --algorithm aes --input path/to/inputfile --output path/to/outputfile --key path/to/aes_key.key
 ```
 
 #### RSA Encryption
